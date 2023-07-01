@@ -39,7 +39,7 @@
       },
       {
         "selector": ["parameter", "variable"],
-        "format": ["snake_case"]
+        "format": ["snake_case", "camelCase"]
       },
       {
         "selector": ["variable"],
