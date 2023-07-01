@@ -1,0 +1,8 @@
+# Typescript
+dist/
+
+# NPM
+node_modules/
+
+# Jest
+coverage/
